@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "*.liquid": "liquid",
+    "*.md": "markdown"
+  },
+  "emmet.includeLanguages": {
+    "liquid": "html"
+  },
+  "liquid.format.enable": true,
+  "markdown.preview.breaks": true,
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "files.exclude": {
+    "_site/**": true,
+    ".sass-cache/**": true,
+    ".bundle/**": true,
+    "vendor/**": true
+  },
+  "search.exclude": {
+    "_site/**": true,
+    ".sass-cache/**": true,
+    ".bundle/**": true,
+    "vendor/**": true
+  }
+}

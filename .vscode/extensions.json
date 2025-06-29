@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "rebornix.Ruby",
+    "ginfuru.ginfuru-vscode-jekyll-syntax",
+    "shopify.liquid",
+    "yzhang.markdown-all-in-one",
+    "ritwickdey.liveserver",
+    "ms-vscode-remote.remote-containers"
+  ]
+}

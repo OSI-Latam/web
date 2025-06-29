@@ -39,6 +39,19 @@ Nos comprometemos a mantener un ambiente inclusivo y respetuoso. Esperamos que t
 ¡Todos los colaboradores serán reconocidos en nuestra página de contribuidores! Revisa los contribuidores actuales:
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Axel-DaMage">
+                    <img src="https://avatars.githubusercontent.com/u/178504369?v=4" width="100;" alt="Axel-DaMage"/>
+                    <br />
+                    <sub><b>D4MAG3_WIZ4RD</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
 ### ¿Necesitas Ayuda?

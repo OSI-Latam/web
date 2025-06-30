@@ -49,6 +49,13 @@ Nos comprometemos a mantener un ambiente inclusivo y respetuoso. Esperamos que t
                     <sub><b>D4MAG3_WIZ4RD</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/j4f3th">
+                    <img src="https://avatars.githubusercontent.com/u/88639709?v=4" width="100;" alt="j4f3th"/>
+                    <br />
+                    <sub><b>Jafeth Perez</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>

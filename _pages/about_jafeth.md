@@ -1,3 +1,4 @@
 # Jafeth Perez
+Soy Jafeth Cofundador de Iniciativa Open Source Latam.
 
-Soy Jafeth, cofundador de OSI-Latam,  soy una persona apasionada del hacking y ciber seguridad, Tengo conocimientos en lenguajes como Python, JS, PHP, MySQL, y tambien tengo conocimientos en areas como redes a nivel CCNA 200-301 y AD DS. Soy una persona que le gusta compartir sus conocimientos con otras personas, ayudarlas y resolver retos. Escribo contenido en mi blog personal: [https://j4f3th.github.io](https://j4f3th.github.io).
+Soy Jafeth (ss4tan), cofundador de OSI-Latam,  soy una persona apasionada del hacking y ciber seguridad, Tengo conocimientos en lenguajes como Python, JS, PHP, MySQL, y tambien tengo conocimientos en areas como redes a nivel CCNA 200-301 y AD DS. Soy una persona que le gusta compartir sus conocimientos con otras personas, ayudarlas y resolver retos. Escribo contenido en mi blog personal: [https://j4f3th.github.io](https://j4f3th.github.io).
